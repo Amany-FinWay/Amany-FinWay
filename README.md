@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amany Abdelfattah
+- 👀 I’m interested in discovering new featuers, learn more and providing modern solutions
+- 🌱 I’m currently learning ASP.NET, Angular, Design Patterns and NoSQL
